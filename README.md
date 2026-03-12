@@ -5,7 +5,6 @@
 **`PhD(c) in Astrophysics · Massive Stars & Stellar Winds · Universidad de Valparaíso`**
 
 [![Website](https://img.shields.io/badge/🌐_Website-felipefigueroat.github.io-1a1a2e?style=for-the-badge)](https://felipefigueroat.github.io/)
-[![arXiv](https://img.shields.io/badge/arXiv-2602.16526-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.16526)
 
 </div>
 
