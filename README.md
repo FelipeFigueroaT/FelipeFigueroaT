@@ -5,6 +5,7 @@
 **`PhD(c) in Astrophysics · Massive Stars & Stellar Winds · Universidad de Valparaíso`**
 
 [![Website](https://img.shields.io/badge/🌐_Website-felipefigueroat.github.io-1a1a2e?style=for-the-badge)](https://felipefigueroat.github.io/)
+[![Massive Stars Group](https://img.shields.io/badge/⭐_Massive_Stars_Group-UV-0a3d62?style=for-the-badge)](https://massivestars.ifa.uv.cl/)
 
 </div>
 
@@ -41,27 +42,4 @@ Hi! I'm a PhD student at the [Instituto de Física y Astronomía, Universidad de
 | 2024 | [New orbital periods of high-inclination dwarf novae based on Gaia Alerts photometry](https://www.aanda.org/articles/aa/full_html/2024/11/aa51661-24/aa51661-24.html) | *A&A* |
 | 2022 | [DELIGHT: Deep Learning Identification of Galaxy Hosts of Transients](https://iopscience.iop.org/article/10.3847/1538-3881/ac912a) | *ApJ* |
 | 2022 | [New self-consistent wind parameters to fit optical spectra of O-type stars (HERMES)](https://www.aanda.org/articles/aa/full_html/2022/05/aa42383-21/aa42383-21.html) | *A&A* |
-
 ---
-
-## 🛠️ Tools & Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
-
-**Atmosphere & Hydro Codes:** FASTWIND · PoWR · m-CAK solvers
-
----
-
-## ⚡ Fun Fact
-
-Outside of astrophysics, I'm a **Fall Guys tryhard** — and proud **Superstar** across all seasons. 👑
-
----
-
-<div align="center">
-  <sub>✨ Studying the brightest stars in the universe, one wind model at a time.</sub>
-</div>
