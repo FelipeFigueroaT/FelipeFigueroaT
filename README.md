@@ -13,7 +13,7 @@
 
 ## 👨‍🔬 About Me
 
-Hi! I'm a PhD student at the [Instituto de Física y Astronomía, Universidad de Valparaíso](https://ifa.uv.cl/), Chile, and a member of the **Massive Stars Group**. My work focuses on the physics of the most luminous stars in the universe — how they lose mass through powerful radiation-driven winds.
+Hi! I'm a PhD candidate at the [Instituto de Física y Astronomía, Universidad de Valparaíso](https://ifa.uv.cl/), Chile, and a member of the **Massive Stars Group**. My work focuses on the physics of the most luminous stars in the universe — how they lose mass through powerful radiation-driven winds.
 
 ---
 
